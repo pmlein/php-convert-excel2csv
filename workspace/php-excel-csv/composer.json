@@ -1,6 +1,0 @@
-{
-    "require": {
-        "cviebrock/eloquent-sluggable": "^4.2",
-        "phpoffice/phpspreadsheet": "dev-develop"
-    }
-}

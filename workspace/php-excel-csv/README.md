@@ -13,6 +13,8 @@ php xlsx2csv.php
 
 Output will be written to the file named as events.csv.
 
+N.B PHPSpreadsheet is used and needs to installed
+
 ### TODO
 * Possibility to get file name as an argument
 * Automatic import to google calendar
